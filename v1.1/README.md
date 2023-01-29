@@ -5,7 +5,7 @@ Board render:
 
 ![Rev0 Image 1](../v1.1/Images/ISA_Bread_Board_v1.1-1.PNG)
 
-Constructed board (older version; ignore version number):
+Constructed board (older version; ignore version number, ignore loaded components in breadboard):
 
 ![Rev0 Image 1](../v1.1/Images/IMG_6506e.jpg)
 
