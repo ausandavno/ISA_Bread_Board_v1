@@ -37,7 +37,7 @@ Absolute maximum board area in which to stick breadboard modules is 103.63mm wid
 Component type     | Reference | Description            | Quantity | Possible sources and notes 
 ------------------ | --------- | ---------------------- | -------- | --------------------------
 PCB                |           | ISA Post Card v1.1     | 1        | Use supplied Gerber or KiCad files to order from your perferred PCB fabrication house
-Breadboard |         | Choose to your preference. Up to two main modules and three power rails. Suggested Mouser part has not been tested. Suggested to purchase two Mouser units and discard one of the power rails.|          | Mouser [BB830](https://au.mouser.com/ProductDetail/854-BB830)
+Breadboard |         | Choose to your preference. Up to two main modules and three power rails on each side of pcb. Suggested Mouser part has not been tested. Suggested to purchase two units per side of pcb desired, and discard one of the power rails.|          | Mouser [BB830](https://au.mouser.com/ProductDetail/854-BB830)
 Capacitor   | C1 - C6  | P5.08mm 4.7uF 25V  | 6        | Mouser [FG28X5R1E475KRT00](https://au.mouser.com/ProductDetail/810-FG28X5R1E475KRT0)
 Header | J3-J8    | Female Header 02x02   | 6        | Use 1x40 female turned pin strip (2.54mm Pitch) or specific header
 Header | J9    | Female Header 02x31   | 1        | Use 1x40 female turned pin strip (2.54mm Pitch) or specific header
