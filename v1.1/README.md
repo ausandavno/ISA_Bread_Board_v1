@@ -13,7 +13,7 @@ Constructed board (older version; ignore version number, ignore loaded component
 
 ### Schematic and PCB Layout
 
-[Schematics - Version 5.1 (pdf)](../v1.1/Schematics/ISA_Bread_Board_v1.1-Schematics.pdf)
+[Schematics - Version 1.1 (pdf)](../v1.1/Schematics/ISA_Bread_Board_v1.1-Schematics.pdf)
 
 [PCB Layout - Version 1.1 (zip)](../v1.1/PCB_Layout/ISA_Bread_Board_v1.1-PCB_Layout.zip)
 
